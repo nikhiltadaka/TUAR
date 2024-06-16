@@ -1,3 +1,6 @@
+<h1>TUAR(Tourism Using AR)</h1>
+Developed an augmented reality (AR) application aimed at enhancing the tourism experience by providing immersive and interactive content for tourists visiting popular landmarks and attractions.
+
 Temporary link for the website to download TUAR app
 (https://656af5891d7bce22c34ba92c--cosmic-treacle-0f227a.netlify.app/)
 
