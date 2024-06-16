@@ -1,7 +1,7 @@
-temporary link for the website to download the ar andriod app TUAR
+Temporary link for the website to download TUAR app
 (https://656af5891d7bce22c34ba92c--cosmic-treacle-0f227a.netlify.app/)
 
-open the website and download the app1 and app2 for ar tourist experience.
+Open the website and download the app1 and app2 for ar tourist experience.
 
 # Getting Started with Create React App
 
